@@ -18,14 +18,14 @@ In this assignment I will create a streaming data pipe by performing these steps
 
 ## Process Steps
 ### Start Kafka
-![Start Kafka](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/start_kafka.png)
+![Start Kafka](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/Screenshoot/start_kafka.png)
 ### Start Zookeeper
-![Start Zookeeper](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/start_zookeeper.png)
+![Start Zookeeper](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/Screenshoot/start_zookeeper.png)
 ### Create Toll topic
-![Create Toll topic](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/create_toll_topic.png)
+![Create Toll topic](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/Screenshoot/create_toll_topic.png)
 ### Start simulation Toll streaming data
-![Start simulation Toll streaming data](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/simulator_output.png)
+![Start simulation Toll streaming data](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/Screenshoot/simulator_output.png)
 ### Read simulation Toll stream data
-![Read simulation Toll stream data](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/data_reader_output.png)
+![Read simulation Toll stream data](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/Screenshoot/data_reader_output.png)
 ### Data stream to Database (MySQL)
-![Data stream to Database (MySQL)](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/output_row.png)
+![Data stream to Database (MySQL)](https://raw.githubusercontent.com/KhaAzAs/tolldata_streaming_kafka/main/Screenshoot/output_row.png)
